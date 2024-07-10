@@ -1,0 +1,133 @@
+{
+  "groups": [
+    {
+      "name": "spring.db1.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.dharani.db1.Config.Db1Config",
+      "sourceMethod": "public javax.sql.DataSource datasource() "
+    }
+  ],
+  "properties": [
+    {
+      "name": "datasource",
+      "type": "java.lang.String",
+      "description": "A description for 'datasource'"
+    },
+    {
+      "name": "ddl-auto",
+      "type": "java.lang.String",
+      "description": "A description for 'ddl-auto'"
+    },
+    {
+      "name": "dialect",
+      "type": "java.lang.String",
+      "description": "A description for 'dialect'"
+    },
+    {
+      "name": "driver-class-name",
+      "type": "java.lang.String",
+      "description": "A description for 'driver-class-name'"
+    },
+    {
+      "name": "hibernate",
+      "type": "java.lang.String",
+      "description": "A description for 'hibernate'"
+    },
+    {
+      "name": "jpa",
+      "type": "java.lang.String",
+      "description": "A description for 'jpa'"
+    },
+    {
+      "name": "password",
+      "type": "java.lang.String",
+      "description": "A description for 'password'"
+    },
+    {
+      "name": "port",
+      "type": "java.lang.String",
+      "description": "A description for 'port'"
+    },
+    {
+      "name": "properties",
+      "type": "java.lang.String",
+      "description": "A description for 'properties'"
+    },
+    {
+      "name": "server",
+      "type": "java.lang.String",
+      "description": "A description for 'server'"
+    },
+    {
+      "name": "spring",
+      "type": "java.lang.String",
+      "description": "A description for 'spring'"
+    },
+    {
+      "name": "spring.db1.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.datasource.driver-class-name'"
+    },
+    {
+      "name": "spring.db1.datasource.password",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.datasource.password'"
+    },
+    {
+      "name": "spring.db1.datasource.url",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.datasource.url'"
+    },
+    {
+      "name": "spring.db1.datasource.username",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.datasource.username'"
+    },
+    {
+      "name": "spring.db1.jpa.database-platform",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.jpa.database-platform'"
+    },
+    {
+      "name": "spring.db1.jpa.hibernate.ddl-auto",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.jpa.hibernate.ddl-auto'"
+    },
+    {
+      "name": "spring.db1.jpa.username",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db1.jpa.username'"
+    },
+    {
+      "name": "spring.db2.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db2.datasource.driver-class-name'"
+    },
+    {
+      "name": "spring.db2.datasource.password",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db2.datasource.password'"
+    },
+    {
+      "name": "spring.db2.datasource.url",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db2.datasource.url'"
+    },
+    {
+      "name": "spring.db2.datasource.username",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.db2.datasource.username'"
+    },
+    {
+      "name": "url",
+      "type": "java.lang.String",
+      "description": "A description for 'url'"
+    },
+    {
+      "name": "username",
+      "type": "java.lang.String",
+      "description": "A description for 'username'"
+    }
+  ],
+  "hints": []
+}
